@@ -33,6 +33,6 @@ int main()
     // rata = rerata(nilM, nilB);
     // st = status(rata);
     // st = status(rerata(nilM, nilB))
-    cout << "status kelulusannya " << status(rerata(nilM, nilB));
+    cout << "status kelulusannya " << status(rerata(nilM, nilB)) << endl;
     cout << "status kelulusannya 2 " << status2(rerata(nilM, nilB), nilM);
 }

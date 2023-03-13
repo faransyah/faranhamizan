@@ -19,4 +19,5 @@ cin>>l;
 luas=p*l;
 //display "Luas persegi panjang adalah", Luas 
 cout<<"luas persegi panjang adalah "<<luas;
-git commit -m "first commit"}//end
+git commit -m "first commit" 
+}//end
